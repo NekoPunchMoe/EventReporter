@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429649097498",
+    "firebase_url": "https://eventreporter-3c7b1.firebaseio.com",
+    "project_id": "eventreporter-3c7b1",
+    "storage_bucket": "eventreporter-3c7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429649097498:android:317d997b12f1673b",
+        "android_client_info": {
+          "package_name": "com.example.wenxi.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429649097498-i2rjbf8i31g6ofut3dc5r8j3uhhn35tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wenxi.eventreporter",
+            "certificate_hash": "1fdd0e1509dec035c9530fdff0a236652f5f95e9"
+          }
+        },
+        {
+          "client_id": "429649097498-oo9o2u55ru0ca1shg842v37v1ft5egss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ifl_b4oqslZRKv7hGGp6pDbIFLh98CQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429649097498-oo9o2u55ru0ca1shg842v37v1ft5egss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
